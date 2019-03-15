@@ -1,2 +1,2 @@
 # SharedPreferences
-This CountSR is used along with the help of 
+This CountSR is an application to increment a number  used along with the shared  
