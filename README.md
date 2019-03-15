@@ -1,2 +1,2 @@
 # SharedPreferences
-This CountSR is used to with the help of 
+This CountSR is used along with the help of 
